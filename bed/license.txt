@@ -1,0 +1,11 @@
+Model Information:
+* title:	Camping sleeping bag
+* source:	https://sketchfab.com/3d-models/camping-sleeping-bag-d2ab6e8a8ffc472e9fca8b920662dafe
+* author:	Eduard Bazyaev (https://sketchfab.com/bazyaev08)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Camping sleeping bag" (https://sketchfab.com/3d-models/camping-sleeping-bag-d2ab6e8a8ffc472e9fca8b920662dafe) by Eduard Bazyaev (https://sketchfab.com/bazyaev08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
